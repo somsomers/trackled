@@ -1,0 +1,24 @@
+# Swift Package Manager
+.build/
+Package.resolved
+
+# Build artifacts / app bundle
+build/
+*.app
+
+# Xcode (in case it's opened there later)
+*.xcodeproj
+*.xcworkspace
+xcuserdata/
+DerivedData/
+
+# macOS
+.DS_Store
+
+# Editor
+.vscode/
+.idea/
+*.swp
+
+# Local tracking data / test artifacts (may contain personal window titles)
+stats.json
